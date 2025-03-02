@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on The MSK Hub</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The MSK Hub</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who is Mohammed Swalah (MSK)?</title>
+      <link>http://localhost:1313/posts/who-am-i/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/who-am-i/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Mohammed Swalah&#34; loading=&#34;lazy&#34; src=&#34;static/images/msk-profile.jpg&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;who-is-mohammed-swalah-msk-&#34;&gt;Who is Mohammed Swalah (MSK)? 🌱&lt;/h1&gt;
+&lt;p&gt;Hello! I’m &lt;strong&gt;Mohammed Swalah (MSK)&lt;/strong&gt;, a lifelong learner, tech enthusiast, and advocate for inclusive growth. Balancing academics with a passion for empowering communities, I aim to bridge gaps—whether in education, technology, or sustainability. Here’s my story.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-journey-&#34;&gt;Academic Journey 🎓&lt;/h2&gt;
+&lt;h3 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;High School&lt;/strong&gt;: GHSS Thanniyam (2021–2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diploma&lt;/strong&gt;: Hospitality Management (Front Office Operations), Food Craft Institute, Thrissur (2023–2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Current Pursuit&lt;/strong&gt;: Bachelor of Computer Applications (BCA), IGNOU (2024–Ongoing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;vision&#34;&gt;&lt;strong&gt;Vision&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;My multidisciplinary background—from hospitality to computer science—fuels my belief in &lt;strong&gt;versatile problem-solving&lt;/strong&gt;. I’m driven to leverage technology for sustainable, community-focused solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

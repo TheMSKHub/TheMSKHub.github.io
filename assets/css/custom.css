@@ -1,0 +1,30 @@
+/* Form Boxes */
+.form-box {
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  background: var(--code-bg);
+  transition: all 0.2s ease;
+}
+
+.form-box:hover {
+  border-color: var(--accent-color);
+}
+
+.form-box label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+  font-weight: 600;
+}
+
+.form-box input,
+.form-box textarea {
+  width: 100%;
+  padding: 0.8rem;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background: var(--hljs-bg);
+  color: var(--text-color);
+}
