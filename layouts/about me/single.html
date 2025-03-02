@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="about-page">
+  <section class="profile-header">
+    <div class="profile-image">
+      <img src="{{ .Params.profile_image | relURL }}" 
+           alt="MSK Profile Photo"
+           class="parallax-layer">
+    </div>
+    <div class="profile-intro">
+      <h1>{{ .Title }}</h1>
+      <p class="mission-statement">{{ .Params.mission }}</p>
+    </div>
+  </section>
+
+  {{ partial "about/timeline.html" . }}
+  {{ partial "about/skills.html" . }}
+  {{ partial "about/cta.html" . }}
+</article>
+{{ end }}

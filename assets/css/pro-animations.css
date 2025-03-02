@@ -1,0 +1,192 @@
+/* Apple/Amazon-grade Animations */
+:root {
+  --ease-power: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  --depth-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.02),
+                  0 6.7px 5.3px rgba(0, 0, 0, 0.028),
+                  0 12.5px 10px rgba(0, 0, 0, 0.035),
+                  0 22.3px 17.9px rgba(0, 0, 0, 0.042),
+                  0 41.8px 33.4px rgba(0, 0, 0, 0.05),
+                  0 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+/* Apple-like Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+/* Amazon Product Card Animation */
+.card {
+  transition: transform 0.6s var(--ease-power), 
+              box-shadow 0.3s var(--ease-power);
+  transform-origin: center;
+}
+
+.card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: var(--depth-shadow);
+}
+
+/* Apple Parallax Effect */
+.parallax-group {
+  perspective: 1000px;
+  transform-style: preserve-3d;
+}
+
+.parallax-layer {
+  transform: translateZ(0.001px) scale(0.999);
+  transition: transform 0.6s var(--ease-power);
+}
+
+/* Amazon Add to Cart Animation */
+@keyframes cart-bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+
+.add-to-cart {
+  transition: all 0.3s var(--ease-bounce);
+}
+
+.adding-to-cart {
+  animation: cart-bounce 0.6s var(--ease-bounce);
+}
+
+/* Apple-like Section Transitions */
+.section-transition {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s var(--ease-power);
+}
+
+.section-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Amazon Mega Menu Animation */
+.mega-menu {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.3s var(--ease-power);
+  pointer-events: none;
+}
+
+.mega-menu.active {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: all;
+}
+
+/* Apple Pro Display Scroll Effect */
+.scroll-fade {
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+}
+
+/* Amazon Loading Skeleton */
+@keyframes skeleton-loading {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    rgba(0,0,0,0.05) 25%,
+    rgba(0,0,0,0.1) 50%,
+    rgba(0,0,0,0.05) 75%
+  );
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite linear;
+}
+
+/* Apple-like Button Interactions */
+.precision-btn {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.1s var(--ease-power);
+}
+
+.precision-btn:active {
+  transform: scale(0.96);
+}
+
+.precision-btn::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, 
+    rgba(255,255,255,0.1) 10%,
+    rgba(255,255,255,0) 70%
+  );
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.precision-btn:active::after {
+  opacity: 1;
+}
+
+/* Amazon Notification Badge */
+.notification-badge {
+  animation: badge-pulse 2s var(--ease-bounce) infinite;
+}
+
+@keyframes badge-pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.15); }
+}
+
+/* Apple-like Scroll Snap */
+.scroll-snap-container {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+.scroll-snap-child {
+  scroll-snap-align: start;
+}
+
+/* Mobile Touch Feedback */
+.tap-feedback:active {
+  animation: tap-scale 0.3s var(--ease-power);
+}
+
+@keyframes tap-scale {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.95); }
+  100% { transform: scale(1); }
+}
+
+/* Apple-like Loading Spinner */
+.loading-spinner {
+  animation: spin 1s linear infinite;
+  border: 3px solid rgba(0,0,0,0.1);
+  border-top-color: var(--accent-color);
+  border-radius: 50%;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

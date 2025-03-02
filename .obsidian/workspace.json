@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/contact/contact.md",
+                "file": "content/about/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contact"
+              "title": "about"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/contact/contact.md",
+                "file": "content/about/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contact"
+              "title": "Backlinks for about"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/contact/contact.md",
+                "file": "content/about/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from contact"
+              "title": "Outgoing links from about"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/contact/contact.md",
+                "file": "content/about/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of contact"
+              "title": "Outline of about"
             }
           }
         ]
@@ -170,24 +170,31 @@
   },
   "active": "dfe8c85266446258",
   "lastOpenFiles": [
-    "New folder",
-    "content/contact/Untitled.md",
+    "assets/css/about.css",
     "content/contact/contact.md",
-    "layouts/_default/contact.html",
-    "layouts/partials/contact-scripts.html",
-    "layouts/partials",
-    "layouts/New folder",
+    "public/about/about/index.html",
+    "public/about/about",
+    "content/about/about.md",
+    "public/about/page/1/index.html",
+    "public/about/page/1",
+    "public/about/about-me/index.html",
+    "public/about/page",
+    "public/about/index.html",
+    "public/about/index.xml",
+    "public/about/about-me",
+    "public/about",
+    "content/about me/about me.md",
+    "content/about/about me.md",
+    "public/images/me.JPG",
+    "static/images/me.JPG",
+    "public/images/msk-profile - Copy.JPG",
+    "static/images/msk-profile - Copy.JPG",
+    "public/images/msk-profile.JPG",
+    "content/contact/Untitled.md",
     "content/Untitled.md",
-    "content/contact",
-    "content/New folder",
-    "assets/css/custom.css",
-    "assets/css/New Text Document.txt",
-    "public/untitled/index.html",
-    "public/untitled",
     "content/contact.md",
     "content/blogs/Who am I.md",
     "content/posts/Who am I.md",
-    "public/images/msk-profile.JPG",
     "static/images/msk-profile.JPG",
     "public/images/DSCN3393.JPG",
     "static/images/DSCN3393.JPG"
