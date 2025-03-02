@@ -35,7 +35,9 @@ layout: contact
 - **Location:** Thrissur, Kerala, India
 - **Social:**  
   [Instagram](https://instagram.com/msk_xplor)  
+
   [LinkedIn](https://linkedin.com/in/mohammed-swalah-855b39321)
+
   [X](https://x.com/msk_swalah)
 ---
 
