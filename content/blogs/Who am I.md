@@ -13,27 +13,33 @@ Hello! I’m **Mohammed Swalah (MSK)**, a lifelong learner, tech enthusiast, and
 ---
 
 ## Academic Journey 🎓
-
+---
+---
 ### **Education**
 - **High School**: GHSS Thanniyam (2021–2023)  
 - **Diploma**: Hospitality Management (Front Office Operations), Food Craft Institute, Thrissur (2023–2024)  
 - **Current Pursuit**: Bachelor of Computer Applications (BCA), IGNOU (2024–Ongoing)  
-
+---
 ### **Vision**  
 My multidisciplinary background—from hospitality to computer science—fuels my belief in **versatile problem-solving**. I’m driven to leverage technology for sustainable, community-focused solutions.
 
 ---
-![Mohammed Swalah](images/my.jpg)
-## Philosophy & Mission 🌍
+ ![Mohammed Swalah]( /static/images/my.jpg)
 
-### **Core Belief**  
-*"True growth is not measured by how high you climb, but by how many hands you hold as you rise. Empower the unseen, employ the untapped, and together, we will build a world where no one is left behind."*  
+---
+## Core Belief 🌍
+---
+### "True growth is not measured by how high you climb, but by how many hands you hold as you rise. Empower the unseen, employ the untapped, and together, we will build a world where no one is left behind." 
+---
+## Hobbies   
+----
 
-### **Focus Areas**  
-1. **Education**: Democratizing access to tech skills for underrepresented groups.  
-2. **Sustainability**: Future projects will integrate eco-friendly practices with tech innovation.  
-3. **Community**: Building platforms that amplify unheard voices.  
-
+1. **Learning something new**
+2. **Singing & Playing Guitar**
+3. **Photography**
+4. **Reading**
+5. **Photography**
+6. **Gaming** 
 
 ---
 

@@ -170,8 +170,9 @@
   },
   "active": "b054e23c69db17f2",
   "lastOpenFiles": [
-    "content/contact/contact.md",
+    "{{.md",
     "content/blogs/Who am I.md",
+    "content/contact/contact.md",
     "Mohammed Swalah.md",
     "public/images/my.JPG",
     "public/images/msk-profile.jpeg",
