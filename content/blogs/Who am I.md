@@ -23,7 +23,7 @@ Hello! I’m **Mohammed Swalah (MSK)**, a lifelong learner, tech enthusiast, and
 My multidisciplinary background—from hospitality to computer science—fuels my belief in **versatile problem-solving**. I’m driven to leverage technology for sustainable, community-focused solutions.
 
 ---
-![Mohammed Swalah](/images/my.jpg)
+![Mohammed Swalah](images/my.jpg)
 ## Philosophy & Mission 🌍
 
 ### **Core Belief**  
