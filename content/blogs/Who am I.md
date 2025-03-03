@@ -1,5 +1,5 @@
 ---
-title: Who is Mohammed Swalah (MSK)? 🌱
+title: Who is Mohammed Swalah (MSK)?
 date: 2025-03-02
 tags:
   - Introduction

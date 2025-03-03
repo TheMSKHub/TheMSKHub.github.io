@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blogs/Who am I.md",
+                "file": "content/about/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Who am I"
+              "title": "about"
             }
           }
         ]
@@ -170,10 +170,10 @@
   },
   "active": "b054e23c69db17f2",
   "lastOpenFiles": [
-    "content/about/about.md",
-    "content/blogs/Who am I.md",
-    "{{.md",
     "content/contact/contact.md",
+    "content/blogs/Who am I.md",
+    "content/about/about.md",
+    "{{.md",
     "Mohammed Swalah.md",
     "public/images/my.JPG",
     "public/images/msk-profile.jpeg",
