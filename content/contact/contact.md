@@ -3,6 +3,7 @@ title: Contact
 layout: contact
 ---
 ----
+
 ## 📧Get in Touch
 --------
 
@@ -29,17 +30,19 @@ layout: contact
 </form>
 </div>
 
-----
-# 📍 Contact Info
+---
+
+# 📍 **Contact Info**
 
 ------
 
 - **Email:** [themskhub@gmail.com](mailto:themskhub@gmail.com)
-- **Location:** Thrissur, Kerala, India
-- **Social:**  
-  [Instagram](https://instagram.com/msk_xplor)  
 
-  [LinkedIn](https://linkedin.com/in/mohammed-swalah-855b39321)
+*  [Instagram](https://instagram.com/msk_xplor)  
 
-  [X](https://x.com/msk_swalah)
+  * [LinkedIn](https://linkedin.com/in/mohammed-swalah-855b39321)
+
+  [X.com](https://x.com/msk_swalah)
+
+  *  **Location:** Thrissur, Kerala, India
 ---

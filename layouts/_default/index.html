@@ -6,25 +6,9 @@
       <h1>{{ .Site.Params.homeTitle }}</h1>
       <p class="tagline">{{ .Site.Params.homeSubtitle }}</p>
       <div class="cta-buttons">
-        <a href="/blogs" class="btn">View Blog</a>
-        <a href="/contact/Contact" class="btn">Get in Touch</a>
+        <a href="/who am I" class="btn">Who Am I</a>
+        <b href="/contact" class="btn">Get in Touch</b>
       </div>
     </div>
-  </section>
-
-  <!-- Featured Content Grid -->
-  <section class="featured">
-    <h2>Featured Plants</h2>
-    <div class="grid">
-      {{ range first 3 (where .Site.RegularPages "Section" "products") }}
-      <article class="card">
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
-        <h3>{{ .Title }}</h3>
-        <p>{{ .Description }}</p>
-        <a href="{{ .RelPermalink }}" class="btn">Learn More</a>
-      </article>
-      {{ end }}
-    </div>
-  </section>
 </main>
 {{ end }}

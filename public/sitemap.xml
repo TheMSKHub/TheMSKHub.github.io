@@ -23,16 +23,19 @@
     <loc>http://localhost:1313/blogs/who-am-i/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/about/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/who-am-i/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/about/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/contact/</loc>
-  </url><url>
     <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/contact/</loc>
   </url>
 </urlset>
