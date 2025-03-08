@@ -31,7 +31,7 @@ layout: contact
 </div>
 
 ---
-![Mohammed Swalah](/images/poo.jpg)
+![Mohammed Swalah](/images/poo.JPG)
 # 📍 **Contact Info**
 
 ------

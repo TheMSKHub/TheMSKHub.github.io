@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/contact/contact.md",
+                "file": "content/my world/Who am I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contact"
+              "title": "Who am I"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "b054e23c69db17f2",
   "lastOpenFiles": [
+    "content/about/about.md",
+    "content/contact/contact.md",
     "themes/lightbi-hugo/exampleSite/content/post/2020/who-am-i.md",
     "themes/lightbi-hugo/exampleSite/content/post/2020/use-this-theme.md",
     "themes/lightbi-hugo/exampleSite/content/post/2020/understanding-hugo-shortcodes.md",
@@ -199,7 +201,6 @@
     "themes/lightbi-hugo/exampleSite/content/notes/2020",
     "themes/lightbi-hugo/exampleSite/content/collections/_index.md",
     "themes/lightbi-hugo/exampleSite/content/collections/2023",
-    "themes/lightbi-hugo/exampleSite/content/about/_index.md",
     "themes/lightbi-hugo/exampleSite/content/post",
     "themes/lightbi-hugo/exampleSite/layouts/partials",
     "themes/lightbi-hugo/exampleSite/content/notes",
@@ -214,7 +215,6 @@
     "public/fonts/open-sans/open-sans-v15-latin-600italic.svg",
     "public/fonts/open-sans/open-sans-v15-latin-600.svg",
     "public/fonts/open-sans/open-sans-v15-latin-300italic.svg",
-    "public/fonts/open-sans/open-sans-v15-latin-300.svg",
-    "themes/lightbi-hugo/archetypes/default.md"
+    "public/fonts/open-sans/open-sans-v15-latin-300.svg"
   ]
 }
