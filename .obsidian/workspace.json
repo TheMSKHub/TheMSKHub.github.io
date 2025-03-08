@@ -201,4 +201,20 @@
     "themes/lightbi-hugo/exampleSite/content/collections/2023",
     "themes/lightbi-hugo/exampleSite/content/about/_index.md",
     "themes/lightbi-hugo/exampleSite/content/post",
-    "themes/lightbi-hugo/exampleSite/layouts/partials
+    "themes/lightbi-hugo/exampleSite/layouts/partials",
+    "themes/lightbi-hugo/exampleSite/content/notes",
+    "themes/lightbi-hugo/exampleSite/content/collections",
+    "themes/lightbi-hugo/exampleSite/content/about",
+    "public/fonts/open-sans/open-sans-v15-latin-regular.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-italic.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-800italic.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-800.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-700italic.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-700.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-600italic.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-600.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-300italic.svg",
+    "public/fonts/open-sans/open-sans-v15-latin-300.svg",
+    "themes/lightbi-hugo/archetypes/default.md"
+  ]
+}
