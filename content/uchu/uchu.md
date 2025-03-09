@@ -56,9 +56,13 @@ Best decision ever! ❤️
 
 I shot this on the same year 2021-22, Korch cringe aan ennalum sahicho....
 ---
-<video controls width="100%" poster="/images/uchu.JPG">
-  <source src="/videos/uchu.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" 
+  src="https://youtu.be/zfxTgZvfxfE" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 **Thank You For:**  
 - Reading my 1000 messages everyday  
 - Making boring days fun with your voice notes  
