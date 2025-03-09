@@ -19,3 +19,15 @@
 [submodule "themes/lightbi-hugo"]
 	path = themes/lightbi-hugo
 	url = https://github.com/binokochumolvarghese/lightbi-hugo
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "themes/huey"]
+	path = themes/huey
+	url = https://github.com/alloydwhitlock/huey/
+[submodule "themes/hugoplate"]
+	path = themes/hugoplate
+	url = https://github.com/zeon-studio/hugoplate

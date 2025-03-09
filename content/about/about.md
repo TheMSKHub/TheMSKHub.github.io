@@ -2,7 +2,7 @@
 title: About MSK
 layout: about
 date: 2024-03-01
-profile_image: images/my.jpg
+profile_image: images/my.JPG
 skills:
   - name: Web Development
     level: 90
