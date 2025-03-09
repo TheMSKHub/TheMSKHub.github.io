@@ -11,7 +11,7 @@ draft: false
 Hello! I’m **Mohammed Swalah (MSK)**, a lifelong learner, tech enthusiast, and advocate for inclusive growth. Balancing academics with a passion for empowering communities, I aim to bridge gaps—whether in education, technology, or sustainability. Here’s my story.
 
 ---
-
+![Mohammed Swalah]( /images/my.JPG)
 ## Academic Journey 🎓
 ---
 ---
@@ -24,7 +24,7 @@ Hello! I’m **Mohammed Swalah (MSK)**, a lifelong learner, tech enthusiast, and
 My multidisciplinary background—from hospitality to computer science—fuels my belief in **versatile problem-solving**. I’m driven to leverage technology for sustainable, community-focused solutions.
 
 ---
- ![Mohammed Swalah]( /images/my.JPG)
+ 
 
 ---
 ## Core Belief 🌍

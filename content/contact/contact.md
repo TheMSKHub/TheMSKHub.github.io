@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: contact
+date: 2025-03-09
 ---
 ----
 
@@ -31,18 +32,19 @@ layout: contact
 </div>
 
 ---
-![Mohammed Swalah](/images/poo.JPG)
+
 # 📍 **Contact Info**
 
 ------
 
-- **Email:** [themskhub@gmail.com](mailto:themskhub@gmail.com)
+[**Email**](mailto:themskhub@gmail.com)
 
- [Instagram](https://instagram.com/msk_xplor)  
+[**Instagram**](https://instagram.com/msk_xplor)  
 
-[LinkedIn](https://linkedin.com/in/mohammed-swalah-855b39321)
+[**LinkedIn**](https://linkedin.com/in/mohammed-swalah-855b39321)
 
-[X](https://x.com/msk_swalah)
+[**X**](https://x.com/msk_swalah)
 
   *  **Location:** Thrissur, Kerala, India
 ---
+![Mohammed Swalah](/images/poo.JPG)

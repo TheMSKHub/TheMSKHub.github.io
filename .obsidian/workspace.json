@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Who am I"
             }
+          },
+          {
+            "id": "c7f9553ed81fa1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/about/about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,20 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b054e23c69db17f2",
+  "active": "c7f9553ed81fa1bb",
   "lastOpenFiles": [
-    "themes/hugoplate/vercel.json",
-    "themes/hugoplate/vercel-build.sh",
-    "themes/hugoplate/theme.toml",
-    "themes/hugoplate/scripts/themeUpdate.js",
-    "themes/hugoplate/scripts/themeSetup.js",
-    "themes/hugoplate/scripts/removeDarkmode.js",
-    "themes/hugoplate/scripts/projectSetup.js",
-    "themes/hugoplate/scripts/clearModules.js",
-    "themes/hugoplate/scripts",
+    "public/tags/personal/page/1/index.html",
+    "public/tags/personal/page/1",
+    "public/tags/personal/page",
+    "public/tags/page/1/index.html",
+    "public/tags/page/1",
+    "public/tags/page",
+    "public/tags/introduction/page/1/index.html",
+    "public/tags/introduction/page/1",
+    "public/tags/introduction/page",
+    "public/tags/dream/page/1/index.html",
+    "public/tags/dream/page/1",
+    "content/my world/Who am I.md",
+    "content/contact/contact.md",
+    "content/blogs/day 1.md",
+    "content/blogs/day 2.md",
+    "content/blogs/_index.md",
     "themes/hugoplate/readme.md",
-    "themes/hugoplate/package.json",
-    "themes/hugoplate/netlify.toml",
     "themes/hugoplate/exampleSite/content/english/sections/testimonial.md",
     "themes/hugoplate/exampleSite/content/english/sections/call-to-action.md",
     "themes/hugoplate/exampleSite/content/english/pages/privacy-policy.md",
@@ -209,12 +229,4 @@
     "themes/hugoplate/exampleSite/assets/images/service-1.png",
     "themes/hugoplate/exampleSite/assets/images/og-image.png",
     "themes/huey/assets/css/bulma/README.md",
-    "themes/huey/assets/css/bulma/CHANGELOG.md",
-    "themes/huey/archetypes/default.md",
-    "content/en/projects/writing/index.md",
-    "content/en/projects/photography/index.md",
-    "content/en/projects/design/index.md",
-    "content/en/projects/_index.md",
-    "content/en/home/lorem.md"
-  ]
-}
+    "themes/
