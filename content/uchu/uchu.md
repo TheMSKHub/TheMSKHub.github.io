@@ -56,13 +56,16 @@ Best decision ever! ❤️
 
 I shot this on the same year 2021-22, Korch cringe aan ennalum sahicho....
 ---
-<iframe width="560" height="315" 
-  src="https://youtu.be/zfxTgZvfxfE" 
+<iframe 
+  width="100%" 
+  height="400" 
+  src="https://www.youtube-nocookie.com/embed/zfxTgZvfxfE" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
+
 **Thank You For:**  
 - Reading my 1000 messages everyday  
 - Making boring days fun with your voice notes  
