@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Happy Birthday Uchu</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Happy Birthday Uchu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About MSK</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h3 id=&#34;-introduction&#34;&gt;🌱 &lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Hi! I&amp;rsquo;m Mohammed Swalah (MSK), a computer science student and plant enthusiast from Kerala, India. I combine my passion for technology with sustainable gardening to create digital solutions that promote environmental awareness.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/my.JPG&#34; alt=&#34;Mohammed Swalah&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;academic-journey-&#34;&gt;&lt;strong&gt;Academic Journey&lt;/strong&gt; 🎓&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;High School&lt;/strong&gt;: GHSS Thanniyam (2021–2023)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Diploma&lt;/strong&gt;: Hospitality Management (Front Office Operations), Food Craft Institute, Thrissur (2023–2024)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Current Pursuit&lt;/strong&gt;: Bachelor of Computer Applications (BCA), IGNOU (2024–Ongoing)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;vision&#34;&gt;&lt;strong&gt;Vision&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;My multidisciplinary background—from hospitality to computer science—fuels my belief in &lt;strong&gt;versatile problem-solving&lt;/strong&gt;. I’m driven to leverage technology for sustainable, community-focused solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
