@@ -61,8 +61,8 @@ This isn’t just about selling plants. It’s about:
 ### Let’s Cultivate Change Together
 Your role in this movement:  
 - [Shop Plants](/) → Support community projects  
-- [Share Knowledge](/blog) → Contribute farming insights  
-- [Collaborate](/contact) → Start local initiatives  
+- [Share Knowledge](/blogs) → Contribute farming insights  
+- [Collaborate](/contact/contact) → Start local initiatives  
 
 ---
 
