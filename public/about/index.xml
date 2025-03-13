@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on The MSK Hub</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on The MSK Hub</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About MSK - Growing Communities, Not Just Plants 🌱</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h1 id=&#34;-the-roots-of-my-journey&#34;&gt;🌍 The Roots of My Journey&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;True growth begins when we lift others while climbing&amp;rdquo; - MSK&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/alone.jpg&#34; alt=&#34;MSK&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-the-spark-that-lit-my-fire&#34;&gt;🔥 The Spark That Lit My Fire&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-rickshaw-ride-that-changed-everything&#34;&gt;The Rickshaw Ride That Changed Everything&lt;/h3&gt;&#xA;&lt;p&gt;During high school, my teacher shared the story of &lt;strong&gt;Irfan Alam&lt;/strong&gt; and his SammaaN Foundation. It was a moment that stayed with me:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Solutions hide in plain sight—true change begins when we see dignity in struggle and potential in ordinary moments.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
