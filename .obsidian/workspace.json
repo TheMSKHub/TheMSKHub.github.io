@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/uchu/uchu.md",
+                "file": "content/blogs/day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uchu"
+              "title": "day 1"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "febbfbb1a83de510",
   "lastOpenFiles": [
+    "content/uchu/uchu.md",
     "content/srj/srj.md",
     "public/tags/personal/index.xml",
     "public/tags/introduction/index.xml",
@@ -194,7 +195,6 @@
     "content/srj/_index.md",
     "content/Srirenjini/Srirenjini.md",
     "content/srj/Srirenjini.md",
-    "content/uchu/uchu.md",
     "content/Srirenjini/_index.md",
     "content/Srirenjini/uchu.md",
     "content/uchu - Copy/_index.md",
