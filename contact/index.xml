@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contacts on The MSK Hub</title><link>https://TheMSKHub.github.io/contact/</link><description>Recent content in Contacts on The MSK Hub</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://TheMSKHub.github.io/contact/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://TheMSKHub.github.io/contact/contact/</link><pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate><guid>https://TheMSKHub.github.io/contact/contact/</guid><description>&lt;hr>
+&lt;h2 id="get-in-touch">📧Get in Touch&lt;/h2>
+&lt;hr>
+&lt;div class="simple-contact">
+&lt;form action="https://formspree.io/f/xwpvgrod" method="POST">
+ &lt;div class="form-box">
+ &lt;label>Your Name:&lt;/label>
+ &lt;input type="text" name="name" required>
+ &lt;/div>
+ &lt;div class="form-box">
+ &lt;label>Your Email:&lt;/label>
+ &lt;input type="email" name="_replyto" required>
+ &lt;/div>
+ &lt;div class="form-box">
+ &lt;label>Message:&lt;/label>
+ &lt;textarea name="message" rows="1" required>&lt;/textarea>
+ &lt;/div>
+&lt;p>&lt;button type="submit">Send&lt;/button>&lt;/p>
+&lt;/form>
+&lt;/div>
+&lt;hr>
+&lt;h1 id="-contact-info">📍 &lt;strong>Contact Info&lt;/strong>&lt;/h1>
+&lt;hr>
+&lt;p>&lt;a href="mailto:themskhub@gmail.com">&lt;strong>Email&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://instagram.com/msk_xplor">&lt;strong>Instagram&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://linkedin.com/in/mohammed-swalah-855b39321">&lt;strong>LinkedIn&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://x.com/msk_swalah">&lt;strong>X&lt;/strong>&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Location:&lt;/strong> Thrissur, Kerala, India&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;img src="https://TheMSKHub.github.io/images/poo.JPG" alt="Mohammed Swalah">&lt;/p></description></item></channel></rss>
